@@ -1,2 +1,2 @@
 # course_django
-Open CLassrom course on django python framework 
+Course on django python framework 
